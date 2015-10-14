@@ -1,6 +1,6 @@
 {
-  "plugins": ["diy-introduction"],
+  "plugins": [],
   "pluginsConfig": {
-     "introduction-text": "封面"
+    
   }
 }
