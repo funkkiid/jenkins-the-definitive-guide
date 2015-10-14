@@ -1,5 +1,5 @@
 {
-  "plugins": [ "github" ],
+  "plugins": [ "github","tree" ],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/gwpost/jenkins-the-definitive-guide.git"
