@@ -2,7 +2,7 @@
   "plugins": [ "github" ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/your/repo"
+      "url": "https://github.com/gwpost/jenkins-the-definitive-guide.git"
     }
   }
 }
