@@ -1,5 +1,5 @@
 {
-  "plugins": [],
+  "plugins": ["book-summary-scroll-position-saver"],
   "pluginsConfig": {
     
   }
