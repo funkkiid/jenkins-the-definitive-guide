@@ -1,8 +1,6 @@
 {
   "plugins": ["diy-introduction"],
   "pluginsConfig": {
-    "github": {
-      "url": "https://github.com/gwpost/jenkins-the-definitive-guide.git"
-    }
+    
   }
 }
