@@ -1,3 +1,3 @@
 # Table of content
 
-* [Jenkins介绍](chapter1.md)
+* [Jenkins介绍](Introducting Jenkins/README.md)
