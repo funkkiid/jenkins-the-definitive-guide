@@ -8,4 +8,4 @@
 > Jenkins还可以做其它类型的自动化测试，如：integration tesing,web testing,functional testing,performance testing,load testing。
 
 
-Jenkins也可以和其它技术结合，如：行为驱动开发，验收测试驱动开发。它们的集合可以作为项目开发者和其它利益相关者的交流工具。BDD的
+Jenkins也可以和其它技术结合，如：行为驱动开发，验收测试驱动开发。它们的集合可以作为项目开发者和其它利益相关者的交流工具。BDD的框架
