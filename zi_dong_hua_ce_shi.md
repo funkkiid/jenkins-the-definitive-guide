@@ -8,4 +8,4 @@
 > Jenkins还可以做其它类型的自动化测试，如：integration tesing,web testing,functional testing,performance testing,load testing。
 
 
-Jenkins也可以和其它技术结合，如：行为驱动开发
+Jenkins也可以和其它技术结合，如：行为驱动开发，验收测试驱动开发
