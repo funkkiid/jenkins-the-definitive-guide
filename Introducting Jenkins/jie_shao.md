@@ -1,5 +1,10 @@
 # Jenkins介绍
 
+Jenkins来源于Hudson。在2009年，Oracle收购了Sun并继承了Hudson的基础代码。在2011年，Oracle和开源社区关系紧张，hudson分成了两个项目：
+
+- Jenkins:被大多数的Hudson开发者所运营
+- Hudson:被Oracle所控制
+
 
 ## 简介
 Continuous Integration(CI)是现代软件开发领域的基石，它改变了团队对于整个开发过程的理解。一个好的CI架构能够使得从开发到部署顺序进行，更快地发现和修复bug,最终给客户带来更多的价值。每个专业的开发团队，无论打还是小都应该采用CI。
