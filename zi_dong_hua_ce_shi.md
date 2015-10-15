@@ -8,3 +8,4 @@
 > Jenkins还可以做其它类型的自动化测试，如：integration tesing,web testing,functional testing,performance testing,load testing。
 
 
+Jenkins也可以和
