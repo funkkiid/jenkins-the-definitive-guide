@@ -11,7 +11,4 @@
 - 管理Jenkins服务器集群来运行分布式构建；
 - 实现自动化部署和持续交付；
 
-Jenkins来源于Hudson。在2009年，Oracle收购了Sun并继承了Hudson的基础代码。在2011年，Oracle和开源社区关系紧张，hudson分成了两个项目：
 
-- Jenkins:被大多数的Hudson开发者所运营
-- Hudson:被Oracle所控制
