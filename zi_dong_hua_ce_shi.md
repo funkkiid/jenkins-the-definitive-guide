@@ -5,4 +5,6 @@
 - 测试驱动开发（TDD）和行为驱动开发（BDD）
 - 单元测试
 
-> Jenkins还可以做其它类型的自动化测试，如：integration tesing,web testing,functional testing,performance testing,load testing  
+> Jenkins还可以做其它类型的自动化测试，如：integration tesing,web testing,functional testing,performance testing,load testing。
+
+
