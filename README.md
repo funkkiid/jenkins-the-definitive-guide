@@ -1,6 +1,6 @@
 # Jenkins权威指南
 
-通Jenkins可以实现流水线式的软件开发，Jenkins是一个开源的软件，他改变了团队对于Continuous Integration(CI)的认识。这本书将会教你如何使用Jenkins来使你的构建，集成，发布，开发流程自动化。并且证明了CI可以节省你的时间，金钱和解决你许多头疼的问题。
+通过Jenkins可以实现流水线式的软件开发，Jenkins是一个开源的软件，他改变了团队对于Continuous Integration(CI)的认识。这本书将会教你如何使用Jenkins来使你的构建，集成，发布，开发流程自动化，证明了CI可以节省你的时间，金钱和解决你许多头疼的问题。
 
 通过本书你可以：
 - 学习如何安装，配置和使你的Jenkins服务器更加安全；
